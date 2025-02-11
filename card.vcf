@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sébastien Garves
+N:Garves;Sébastien;;;;
+ORG:photographegs
+TITLE:Photographe
+TEL;TYPE=work,voice:+33628732546
+EMAIL;TYPE=work:your.email@example.com
+ADR;TYPE=work:13, rue des Oyats;Grande-Synthe;;59760;France
+NOTE:Spécialiste en photographie d'iris et reportage photo sur Dunkerque.
+END:VCARD
